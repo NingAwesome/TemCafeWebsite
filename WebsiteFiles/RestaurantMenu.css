@@ -1,0 +1,123 @@
+html {
+  background-color: #cdb2ea;
+}
+
+
+h1 {
+  font-family: Papyrus;
+}
+
+h2{
+  font-family: Papyrus;
+}
+
+h4 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 17px;
+}
+
+h5 {
+  text-align: center;
+  font-family: Papyrus;
+  font-size: 20px;
+}
+
+p {
+  font-family: cursive;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+td {
+  text-align: center;
+}
+
+hr {
+  size: 1;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.oh2 {
+  text-align: center;
+  font-family: Papyrus;
+}
+
+#div2 {
+  width: 70%;
+  background-color: #fffaf2;
+  margin: auto;
+  border-radius: 40px;
+  border: 2px solid black;
+}
+
+
+#menubar {
+  background-color: #fffaf2;
+  margin: auto;
+  width: 85%;
+  border-radius: 30px;
+}
+
+.T {
+  font-family: Papyrus;
+  font-weight: bold;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+#table1 {
+  width: 80%;
+  margin: auto;
+
+}
+
+#tem {
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: auto;
+}
+
+#cafe {
+  display: block;
+  margin: auto;
+  width: 576px;
+  height: 400px;
+}
+
+#temcafe {
+  font-size: 60px;
+  text-align: center;
+}
+
+#gallery {
+  background-color: #fffaf2;
+  margin: auto;
+  width: 40%;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+#gal {
+  font-family: Papyrus;
+  font-weight: bold;
+  font-size: 40px;
+  text-align:center;
+  display:block;
+}

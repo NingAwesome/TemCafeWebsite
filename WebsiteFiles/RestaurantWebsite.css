@@ -1,0 +1,201 @@
+html {
+  background-color: #cdb2ea;
+}
+
+h1 {
+  font-family: Papyrus;
+}
+
+h2 {
+  font-family: Papyrus;
+}
+
+h5 {
+  text-align: center;
+  font-family: Papyrus;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  font-family: Papyrus;
+  font-weight: bold;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+hr {
+  size: 1;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#menubar {
+  background-color: #fffaf2;
+  margin: auto;
+  width: 85%;
+  border-radius: 30px;
+
+}
+
+.T {
+  font-family: Papyrus;
+  font-weight: bold;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#table1 {
+  width: 80%;
+  margin: auto;
+}
+
+#tem {
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: auto;
+}
+
+#cafe {
+  display: inline-block;
+  width: 864px;
+  height: 600px;
+  display: block;
+  margin: auto;
+}
+
+#Hoi {
+  background-color: #fffaf2;
+  width: 500px;
+  display: inline-block;
+  display: block;
+  margin: auto;
+  border: 2px solid black;
+}
+
+.about {
+  background-color: #fffaf2;
+  margin: auto;
+  width: 70%;
+}
+
+#temheart {
+  display: block;
+  margin: auto;
+  width: 341px;
+  height: 359px;
+}
+
+#hours {
+  background-color: #fffaf2;
+  margin: auto;
+  width: 50%;
+  border: 2px solid black;
+}
+
+
+#under {
+  width: 768px;
+  height: 512px;
+  display: block;
+  margin: auto;
+}
+
+#temcafe {
+  font-size: 60px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#tflake {
+
+}
+#spie {
+  width: 648px;
+  height: 432px;
+}
+#aquiche {
+  width:640px;
+  height:360px;
+}
+#inoodle {
+  width: 648px;
+  height: 432px;
+}
+#gburger {
+  width:
+  height:
+}
+#hpup {
+  width: 600px;
+  height: 450px;
+}
+#bcpie {
+  width:640px;
+  height:361;
+}
+#ncream {
+  width:
+  height:
+}
+#mcandy {
+  width:600px;
+  height:400px;
+}
+#sdount {
+  width:637px;
+  height:452px;
+}
+#chisp {
+  width:
+  height:
+}
+#star {
+  width:
+  height:
+}
+#bipop {
+  width:
+  height:
+}
+#unipop {
+  width:
+  height:
+}
+#cbunny {
+  width:649px;
+  height:457px;
+}
+#hotdog {
+  width:640px;
+  height:427px;
+}
+#tea {
+  width:
+  height:
+}
+#cider {
+  width:
+  height:
+}
